@@ -8,14 +8,14 @@ Steve needs to analyze the data of the entire stock market now for his parents, 
 Comparing the stock years 2017 and 2018; 2017 was significantly better for stockholders as all stocks had a positive return percentage of at least 92.8. Unfortunately in 2018 stocks didn't fair so well and the majority had a loss.
 
 Refactoring the code was only milliseconds faster for our data, but with the entire stock market to be analyzed this should help Steve significantly save time.
-2017 Original Code Analysis Time
+#### 2017 Original Code Analysis Time
 ![Original 2017](https://github.com/stacybeauregard/stock_analysis/blob/main/Resources/VBA_Challenge_2017.png)
-2017 Refactored Analysis Time
+#### 2017 Refactored Analysis Time
 ![Refactored 2017](https://github.com/stacybeauregard/stock_analysis/blob/main/Resources/VBA_Challenge_2017_Refactored.png)
 
-2018 Original Code Analysis Time
+#### 2018 Original Code Analysis Time
 ![Original 2018](https://github.com/stacybeauregard/stock_analysis/blob/main/Resources/VBA_Challenge_2018.png)
-2018 Refactored Analysis Time
+#### 2018 Refactored Analysis Time
 ![Refactored 2018](https://github.com/stacybeauregard/stock_analysis/blob/main/Resources/VBA_Challenge_2018_Refactored.png)
 
 ### Summary
